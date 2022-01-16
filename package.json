@@ -1,0 +1,24 @@
+{
+  "name": "financeiro",
+  "version": "1.0.0",
+  "description": "Set your finance project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongojs": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermevesentini/projectoFinanceiro.git"
+  },
+  "author": "Guilherme Vesentini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermevesentini/projectoFinanceiro/issues"
+  },
+  "homepage": "https://github.com/guilhermevesentini/projectoFinanceiro#readme"
+}
